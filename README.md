@@ -54,5 +54,5 @@ Gradio Web Interface
  ---
  
  ## 👥 Authors
-  * **Aman Tripathi** — Data Pipeline, Text Preprocessing & NLP Feature Extraction
-59 * **Soham Pandey** — Machine Learning Models, Evaluation & Gradio UI Integration
+   * **Soham Pandey** — Machine Learning Models, Evaluation & Gradio UI Integration
+   * * **Aman Tripathi** — Data Pipeline, Text Preprocessing & NLP Feature Extraction
